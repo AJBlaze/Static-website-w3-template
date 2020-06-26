@@ -10,12 +10,7 @@
 
 # Executables and installation/setup instructions(including references)
  - Eclipse IDE for Java EE Developers  [use this link to download eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-java-ee-developers)
- - Visual studio code [use this link for visual studio code](https://code.visualstudio.com/)
- - AWS- EC2, EKS.(https://aws.amazon.com/)
- - Kubernetes (This can be directly installed on the aws)
- - Docker(This can be directly installed on the aws)
- - Jenkins(https://jenkins.io/)
- 
+ - Visual studio code [use this link for visual studio code](https://code.visualstudio.com/) 
 
 
 # Steps to repliicate my project
